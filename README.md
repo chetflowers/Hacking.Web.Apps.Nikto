@@ -1,5 +1,15 @@
 # Nikto-Exploitation-of-Web-Vulnerabilities-Using-DVWA-SQL-Injection-XSS-and-Command-Injection
 
+## Quick Links
+- [Overview](#overview)
+- [Detailed Google Slides](#detailed-google-slides)
+- [Environment Setup](#environment-setup)
+- [Vulnerabilities Exploited](#vulnerabilities-exploited)
+- [Tools and Technologies](#tools-and-technologies)
+- [Exploitation Process](#exploitation-process)
+- [Mitigation Strategies](#mitigation-strategies)
+- [Conclusion](#conclusion)
+
 ## Overview
 This project focuses on exploiting common web vulnerabilities such as SQL Injection (SQLi), Cross-Site Scripting (XSS), and Command Injection using the Nikto web server scanner in a secure Kali Linux environment. The testing is performed in a controlled virtual environment using the Damn Vulnerable Web Application (DVWA) to simulate real-world attack scenarios. The project is part of a broader cybersecurity exercise designed to showcase offensive security techniques while discussing mitigation strategies.
 
