@@ -9,6 +9,13 @@ The primary goal is to demonstrate how Nikto can be utilized to identify and exp
 - Practical steps for exploiting vulnerabilities like SQLi, XSS, and Command Injection.
 - Best practices for remediation, including input validation, parameterized queries, and the principle of least privilege.
 
+## Detailed Google Slides
+
+I’ve prepared a **comprehensive slideshow** detailing the Nikto exploitation steps,  
+including screenshots and an in-depth walkthrough:  
+
+[View the Slides Here](https://docs.google.com/presentation/d/1WDB1qKyI04c2uV6-O9z6g34Cjs8Ek18Pbz_ZDXiHTLI/edit#slide=id.g2f1aefdd799_0_186)
+
 Environment Setup:
 - Kali Linux: Used as the primary platform for running Nikto and other security tools.
 - DVWA: Configured for vulnerability testing, simulating a real-world vulnerable web application.
