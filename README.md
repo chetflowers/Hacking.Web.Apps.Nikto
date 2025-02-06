@@ -1,4 +1,4 @@
-# Nikto-Exploitation-of-Web-Vulnerabilities-Using-DVWA-SQL-Injection-XSS-and-Command-Injection
+# Exploiting Web Vulnerabilities in DVWA with Nikto: A Lab Demonstration of SQL Injection, XSS, & Command Injection
 
 ## Quick Links
 - [Overview](#overview)
