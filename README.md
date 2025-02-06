@@ -21,7 +21,7 @@ The primary goal is to demonstrate how Nikto can be utilized to identify and exp
 
 ## Detailed Google Slides
 I’ve prepared a **comprehensive slideshow** detailing the Nikto exploitation steps, including screenshots and an in-depth walkthrough.  
-- **[View the Detailed Presentation](https://chetflowers.github.io/Hacking.Web.Apps.Nikto/)**  
+- **[View the Detailed Presentation](https://chetflowers.github.io/DVWA-Nikto-Exploitation-Lab/)**  
   (Visit our GitHub Pages site for an embedded slideshow and complete documentation.)
 
 ## Environment Setup
