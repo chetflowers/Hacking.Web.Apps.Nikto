@@ -12,9 +12,10 @@ The primary goal is to demonstrate how Nikto can be utilized to identify and exp
 ## Detailed Google Slides
 
 I’ve prepared a **comprehensive slideshow** detailing the Nikto exploitation steps,  
-including screenshots and an in-depth walkthrough:  
+including screenshots and an in-depth walkthrough:
 
-[View the Slides Here](https://docs.google.com/presentation/d/1WDB1qKyI04c2uV6-O9z6g34Cjs8Ek18Pbz_ZDXiHTLI/edit#slide=id.g2f0762fe488_1_460)
+- **[View the Detailed Presentation](https://chetflowers.github.io/Hacking.Web.Apps.Nikto/)**  
+  Visit our GitHub Pages site for an embedded slideshow and complete documentation.
 
 Environment Setup:
 - Kali Linux: Used as the primary platform for running Nikto and other security tools.
